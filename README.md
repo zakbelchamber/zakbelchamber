@@ -1,1 +1,1 @@
-[![](https://github-readme-stats.vercel.app/api?username=zakbelchamber)]
+![](https://github-readme-stats.vercel.app/api?username=zakbelchamber)
