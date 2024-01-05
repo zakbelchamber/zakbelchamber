@@ -2,7 +2,7 @@
 
 ### Here are my details 👇
 * [Twitter](https://twitter.com/zhbelchamber)
-* [LinkedIn]([https://www.linkedin.com/in/zakariahbelchamber/)
+* [LinkedIn](https://www.linkedin.com/in/zakariahbelchamber/)
 
 ❗️ Contact me here, [Email me](mailto:email@zhbelchamber.xyz)
 
