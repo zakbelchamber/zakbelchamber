@@ -1,4 +1,4 @@
-# Hi, I'm Zak Belchamber, An 18 Year Old Software Engineer from England!
+# Hi, I'm Zak Belchamber, an 18 Year Old Software Engineer from England!
 
 ### Here are my details 👇
 * [Twitter](https://twitter.com/zhbelchamber)
