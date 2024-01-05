@@ -1,4 +1,6 @@
-# Hi, I'm Zak Belchamber, an 18 Year Old Software Engineer from England!
+# Hi, I'm Zak Belchamber!
+
+I am a Computer Science student at University of East London. Aspiring to be a developer working on both front-end solutions and back-end solutions. 
 
 ### Here are my details 👇
 * [Twitter](https://twitter.com/zhbelchamber)
